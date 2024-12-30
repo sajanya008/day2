@@ -1,0 +1,31 @@
+h1{
+    color: brown;
+    text-align: center;
+    background-color: blanchedalmond;
+    font-style: italic;
+    border-color: black;
+    border-style: solid;
+    border-radius: 19px;
+}
+table, th,td{
+    border: 2px rgb(12, 12, 26) solid;
+    
+}
+img{
+    width:400px;
+height:200px;
+
+}
+#head{
+    color:blue;
+}
+.part1{
+    background-color:rebeccapurple;
+    color: aquamarine;
+margin: 80px 50px 30px 20px;
+padding: 30px;
+background-image: url("https://media.istockphoto.com/id/520700958/photo/beautiful-flowers-background.jpg?s=612x612&w=0&k=20&c=A7WF8MScj3YNBTA-qFQEKm-Xphzmi_mfaOqjq27--j4=");
+background-repeat: no repeat;
+background-size: cover;
+background-position:center ;
+}
